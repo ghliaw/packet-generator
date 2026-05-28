@@ -37,3 +37,6 @@ Desktop.ini
 # 本機工具腳本（非程式碼）
 setup-github.ps1
 commit-push.ps1
+
+# Cowork / Claude
+CLAUDE.md
